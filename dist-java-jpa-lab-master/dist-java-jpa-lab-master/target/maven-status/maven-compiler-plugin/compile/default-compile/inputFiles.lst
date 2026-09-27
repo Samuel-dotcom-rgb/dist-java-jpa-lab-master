@@ -1,0 +1,13 @@
+C:\Users\bears\Downloads\dist-java-jpa-lab-master\dist-java-jpa-lab-master\src\main\java\edu\wctc\jpalab\controller\CollectionController.java
+C:\Users\bears\Downloads\dist-java-jpa-lab-master\dist-java-jpa-lab-master\src\main\java\edu\wctc\jpalab\controller\RecipeController.java
+C:\Users\bears\Downloads\dist-java-jpa-lab-master\dist-java-jpa-lab-master\src\main\java\edu\wctc\jpalab\DistJavaJpaLabApplication.java
+C:\Users\bears\Downloads\dist-java-jpa-lab-master\dist-java-jpa-lab-master\src\main\java\edu\wctc\jpalab\entity\collection\Collector.java
+C:\Users\bears\Downloads\dist-java-jpa-lab-master\dist-java-jpa-lab-master\src\main\java\edu\wctc\jpalab\entity\collection\CollectorPhoto.java
+C:\Users\bears\Downloads\dist-java-jpa-lab-master\dist-java-jpa-lab-master\src\main\java\edu\wctc\jpalab\entity\recipe\Chef.java
+C:\Users\bears\Downloads\dist-java-jpa-lab-master\dist-java-jpa-lab-master\src\main\java\edu\wctc\jpalab\entity\recipe\Recipe.java
+C:\Users\bears\Downloads\dist-java-jpa-lab-master\dist-java-jpa-lab-master\src\main\java\edu\wctc\jpalab\entity\recipe\RecipePhoto.java
+C:\Users\bears\Downloads\dist-java-jpa-lab-master\dist-java-jpa-lab-master\src\main\java\edu\wctc\jpalab\repo\collection\CollectorPhotoRepository.java
+C:\Users\bears\Downloads\dist-java-jpa-lab-master\dist-java-jpa-lab-master\src\main\java\edu\wctc\jpalab\repo\collection\CollectorRepository.java
+C:\Users\bears\Downloads\dist-java-jpa-lab-master\dist-java-jpa-lab-master\src\main\java\edu\wctc\jpalab\repo\recipe\ChefRepository.java
+C:\Users\bears\Downloads\dist-java-jpa-lab-master\dist-java-jpa-lab-master\src\main\java\edu\wctc\jpalab\repo\recipe\RecipePhotoRepository.java
+C:\Users\bears\Downloads\dist-java-jpa-lab-master\dist-java-jpa-lab-master\src\main\java\edu\wctc\jpalab\repo\recipe\RecipeRepository.java

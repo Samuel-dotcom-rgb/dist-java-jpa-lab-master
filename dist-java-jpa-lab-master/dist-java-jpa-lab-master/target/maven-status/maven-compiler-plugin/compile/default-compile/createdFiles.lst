@@ -1,0 +1,13 @@
+edu\wctc\jpalab\controller\RecipeController.class
+edu\wctc\jpalab\controller\CollectionController.class
+edu\wctc\jpalab\entity\collection\Collector.class
+edu\wctc\jpalab\repo\recipe\RecipePhotoRepository.class
+edu\wctc\jpalab\repo\recipe\ChefRepository.class
+edu\wctc\jpalab\entity\recipe\Recipe.class
+edu\wctc\jpalab\repo\collection\CollectorRepository.class
+edu\wctc\jpalab\entity\collection\CollectorPhoto.class
+edu\wctc\jpalab\entity\recipe\RecipePhoto.class
+edu\wctc\jpalab\repo\recipe\RecipeRepository.class
+edu\wctc\jpalab\entity\recipe\Chef.class
+edu\wctc\jpalab\repo\collection\CollectorPhotoRepository.class
+edu\wctc\jpalab\DistJavaJpaLabApplication.class
